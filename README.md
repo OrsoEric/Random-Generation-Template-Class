@@ -1,5 +1,6 @@
 # Random-Generation-Template-Class
-Wrapper for random as template C++ class. Makes it easier to get a random number of a given type in a given range.
+Wrapper for random as template C++ class. Makes it easier to get a random number of a given type in a given range.  
+
 bool get_rand<bool>(void)  
 double get_rand<double>(double min, double max)  
 float get_rand<float>(float min, float max)  
